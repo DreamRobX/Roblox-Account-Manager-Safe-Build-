@@ -1,4 +1,4 @@
-# Roblox Account Manager — Safe Self-Built Release (v3.7.2)
+# Roblox Account Manager - Safe Self-Built Release (v3.7.2)
 
 This repository provides a **clean, self-built release** of **Roblox Account Manager v3.7.2**, compiled directly from the **official open-source code**.
 
